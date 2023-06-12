@@ -1,2 +1,2 @@
 # WeightBased-Round_Robin-LoadBalancer
-Self learned project (Source YouTube , CHAT-GPT , GOOGLE)
+This Project is Created as part of SelfLearning Session, where the motive was to understand the high level functionality of Requests LoadBalancing.
